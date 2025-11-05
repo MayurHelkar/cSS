@@ -1,0 +1,6 @@
+float main()
+{
+
+//    return; // error: 'return' with no value, in function returning non-void [-Wreturn-mismatch]
+    return 35.46;
+}
